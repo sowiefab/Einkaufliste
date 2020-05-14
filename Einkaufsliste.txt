@@ -4,3 +4,4 @@ Einkaufsliste:
 - 1 Brot
 - 5 Laibe Kaese
 - 10kg Erdbeeren
+- 1 Tüte Chips
