@@ -2,3 +2,5 @@ Einkaufsliste:
 - 2 Bananen
 - 3 Joghurts
 - 1 Brot
+- 5 Laibe Kaese
+- 10kg Erdbeeren
