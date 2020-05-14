@@ -1,4 +1,4 @@
-![alt-text]("kaktus.jpg")
+![Selbstbildnis](kaktus.jpg)
 
 # Lebenslauf
 ## Persönliche Daten
