@@ -1,0 +1,4 @@
+Einkaufsliste:
+- 2 Bananen
+- 3 Joghurts
+- 1 Brot
